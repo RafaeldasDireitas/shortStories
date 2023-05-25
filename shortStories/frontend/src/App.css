@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.card-organizer {
+  border-bottom-left-radius: 10px;
+  min-height: 152px;
+  max-height: 152px;
+  overflow-y: hidden;
+  border-bottom-right-radius: 10px;
+}
